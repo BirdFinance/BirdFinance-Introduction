@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 
 1. Project name: Bird Finance
 2. Slogan: Fly with Bird
@@ -18,37 +18,37 @@ Thanks to the strong technical team of BIRD, Bird Finance uses cross chain tech
 
    youtube: https://youtu.be/CXv462rpo4w
 
-### Advantages
+## Advantages
 
-#### The World's First Extreme Deflation Smart Pool DeFi Protocol
+### The World's First Extreme Deflation Smart Pool DeFi Protocol
 
 1. Service fee of smart pool mining is used to buyback BIRD
 2. Governance token BIRD with deflation model. Redistribution through circulation and automatic deflation through circulation
 3. Service fee of liquidity mining buy-back  
 
-#### One Token with 4 Mining Ways
+### One Token with 4 Mining Ways
 1. Pledge the principal in one time and automatically carry out compound interest mining to obtain certificate tokens
 2. Pledge certificate tokens in the liquidity pool to obtain BIRD
 3. Pledge certificate tokens for a period of time to draw NFT cards
 4. Pledge BIRD to obtain BIRD
 
-#### High Degree of Community Autonomy            
+### High Degree of Community Autonomy            
 
 1. The access of smart pools to mining pools is decided by community voting 
 2. The future development direction and major issues of Bird Finance are completely decided by the community and implemented through the community voting
 3. 2% circulation tax of BIRD is directly put into the DAO pool to encourage the community to participate in governance 
-#### Lending Smart Pool
+### Lending Smart Pool
 
 1. The smart pool has its own lending function, and some tokens are reserved for lending 
 2. When the market risk turns higher, the proportion of mining funds will be reduced and the proportion of lending funds will be increased
 3. When the market is good, the proportion of lending funds will be reduced and the proportion of mining funds will be increased
 
-#### Cross-chain Smart Pool
+### Cross-chain Smart Pool
 
 In the future, it will be connected to HECO, OKExChain, Ethereum. The smart pool will automatically cross chain to find high-quality mining pools, thus providing higher cross-chain combination income 
 
 
-### Token Allocation
+## Token Allocation
 
 - Total supply: 10 billion
 - 50%  Black hole burning
@@ -63,7 +63,7 @@ The part of Developer Fund will be locked for 1 month after listing and will not
 10% of BIRD will be used to add BIRD liquidity on major DEXs in stages, and the operation will be completed with a dedicated address, which is completely used to expand the BIRD liquidity pools. Tokens in the dedicated address will not be transferred to any other address
 
 
-### TimeLine
+## TimeLine
 
 - 2021.4 At the end of April, BIRD will be launched on MDEX on BSC 
 - 2021.5 BIRD launches liquidity mining
@@ -74,7 +74,7 @@ The part of Developer Fund will be locked for 1 month after listing and will not
 - 2022 Q2 Launch BirdChain
 
 
-### Project News
+## Project News
 
 1. Before BIRD listing, Bird Finance will carry out Genesis airdrop. Users can get airdrop after completing certain tasks or reaching certain conditions
 2. In the first week after BIRD listing, Mars Finance will make strategic investment in Bird Finance
@@ -83,7 +83,7 @@ The part of Developer Fund will be locked for 1 month after listing and will not
 5. In the second week after BIRD listing, Gate will make strategic investment in Bird Finance. At the same time, BIRD will get listed on Gate and Lbank
 
 
-### All URLs about Bird
+## All URLs about Bird
 
 1. Official Website：https://birdswap.com
 2. Twitter:  https://twitter.com/bird_aggregator
