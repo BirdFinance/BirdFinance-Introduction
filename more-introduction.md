@@ -13,13 +13,12 @@ Thanks to the strong technical team of BIRD, Bird Finance uses cross chain tech
 4. White paper: No
 
 5. URLs of Introduction Video
-
    Official account: https://mp.weixin.qq.com/s/qDFykGJTgD_w5viBDf6Bcg
-
    youtube: https://youtu.be/CXv462rpo4w
-
-
+   
+   
 ## Advantages
+
 The World's First Extreme Deflation Smart Pool DeFi Protocol
 - Service fee of smart pool mining is used to buyback BIRD
 - Governance token BIRD with deflation model. Redistribution through circulation and automatic deflation through circulation
