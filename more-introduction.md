@@ -15,34 +15,34 @@ Thanks to the strong technical team of BIRD, Bird Finance uses cross chain tech
 5. URLs of Introduction Video
    Official account: https://mp.weixin.qq.com/s/qDFykGJTgD_w5viBDf6Bcg
    youtube: https://youtu.be/CXv462rpo4w
-   
-   
-## Advantages
+ 
 
-The World's First Extreme Deflation Smart Pool DeFi Protocol
+##  Advantages
+
+### The World's First Extreme Deflation Smart Pool DeFi Protocol
 - Service fee of smart pool mining is used to buyback BIRD
 - Governance token BIRD with deflation model. Redistribution through circulation and automatic deflation through circulation
 - Service fee of liquidity mining buy-back  
 
-One Token with 4 Mining Ways
+### One Token with 4 Mining Ways
 - Pledge the principal in one time and automatically carry out compound interest mining to obtain certificate tokens
 - Pledge certificate tokens in the liquidity pool to obtain BIRD
 - Pledge certificate tokens for a period of time to draw NFT cards
 - Pledge BIRD to obtain BIRD
 
 
-High Degree of Community Autonomy            
+### High Degree of Community Autonomy            
 - The access of smart pools to mining pools is decided by community voting 
 - The future development direction and major issues of Bird Finance are completely decided by the community and implemented through the community voting
 - 2% circulation tax of BIRD is directly put into the DAO pool to encourage the community to participate in governance 
 
 
-Lending Smart Pool
+### Lending Smart Pool
 - The smart pool has its own lending function, and some tokens are reserved for lending 
 - When the market risk turns higher, the proportion of mining funds will be reduced and the proportion of lending funds will be increased
 - When the market is good, the proportion of lending funds will be reduced and the proportion of mining funds will be increased
 
-Cross-chain Smart Pool
+### Cross-chain Smart Pool
 In the future, it will be connected to HECO, OKExChain, Ethereum. The smart pool will automatically cross chain to find high-quality mining pools, thus providing higher cross-chain combination income 
 
 
