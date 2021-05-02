@@ -60,27 +60,6 @@ The share of early investors will be locked for 2 weeks after listing. After the
 The part of Developer Fund will be locked for 1 month after listing and will not be circulated in market in the first month
 10% of BIRD will be used to add BIRD liquidity on major DEXs in stages, and the operation will be completed with a dedicated address, which is completely used to expand the BIRD liquidity pools. Tokens in the dedicated address will not be transferred to any other address
 
-
-## TimeLine
-
-- 2021.4 At the end of April, BIRD will be launched on MDEX on BSC 
-- 2021.5 BIRD launches liquidity mining
-- 2021.5 Launch smart pool and connected to MDEX pool
-- 2021.6 Launch DAO to start community governance
-- 2021 Q3 Launch lending function
-- 2021 Q4 Open cross chain function. Cross-chain yield aggregation of BSC, HECO and OKExChain
-- 2022 Q2 Launch BirdChain
-
-
-## Project News
-
-1. Before BIRD listing, Bird Finance will carry out Genesis airdrop. Users can get airdrop after completing certain tasks or reaching certain conditions
-2. In the first week after BIRD listing, Mars Finance will make strategic investment in Bird Finance
-3. In the first week after BIRD listing, Bird Finance will reach strategic cooperation with DoDo
-4. In the first week after BIRD listing, Bird Finance will launch DAO pool to fully start community governance
-5. In the second week after BIRD listing, Gate will make strategic investment in Bird Finance. At the same time, BIRD will get listed on Gate and Lbank
-
-
 ## All URLs about Bird
 
 1. Official Website：https://birdswap.com
